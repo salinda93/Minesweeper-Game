@@ -1,0 +1,5 @@
+﻿  Minesweeper.cpp
+D:\Visual Studio 2019 workspace\Minesweeper\Minesweeper\Minesweeper.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio 2019 workspace\Minesweeper\Minesweeper\Minesweeper.cpp(71,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Minesweeper\Minesweeper\Minesweeper.cpp(71,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Minesweeper.vcxproj -> D:\Visual Studio 2019 workspace\Minesweeper\Debug\Minesweeper.exe
